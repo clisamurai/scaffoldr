@@ -1,2 +1,8 @@
 # scaffoldr
-Yet another application generator but this one is mine and is written in Python!
+A web-based application generator written in Python by Mitchell Palmer.
+
+## Requirements
+- Python 2.7
+- Flask
+- WTForms
+- Flask-WTF
