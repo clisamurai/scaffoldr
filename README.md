@@ -1,3 +1,5 @@
+# PROJECT HAS BEEN KILLED
+
 # scaffoldr
 A web-based application generator written in Python by Mitchell Palmer.
 
